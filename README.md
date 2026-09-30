@@ -1,4 +1,4 @@
-# iembry repository @ R-Universe
+# iembry repository @ R-universe
 
 In order to use this repository, please follow the instructions below:
 
